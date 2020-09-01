@@ -1,1 +1,2 @@
-# AZURE PIPELINES SUCCINCTLY SAMPLE PROJECTS
+# Azure Pipelines Succinclty
+## Sample projects
